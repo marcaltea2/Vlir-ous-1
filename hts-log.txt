@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 25 Jan 2024 10:51:25 at https://www.vliruos.be/en/home/1 https://www.vliruos.be/en/about_vlir_uos/2 https://www.vliruos.be/en/scholarships https://www.vliruos.be/en/project_funding/4 https://www.vliruos.be/en/countries/96 https://www.vliruos.be/en/projects/20 https://www.vliruos.be/en/contact/28 https://www.vliruos.be/en/five_year_programme_2022_2027/2626 https://www.vliruos.be/en/project_statistics/3633 https://www.vliruos.be/en/news-events https://www.vliruos.be/en/documents/129 https://www.vliruos.be/en/stories/60 https://www.vliruos.be/en/call_types/1566 https://www.vliruos.be/en/community_talks/1366 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.vliruos.be/en/home/1 https://www.vliruos.be/en/about_vlir_uos/2 https://www.vliruos.be/en/scholarships https://www.vliruos.be/en/project_funding/4 https://www.vliruos.be/en/countries/96 https://www.vliruos.be/en/projects/20 https://www.vliruos.be/en/contact/28 https://www.vliruos.be/en/five_year_programme_2022_2027/2626 https://www.vliruos.be/en/project_statistics/3633 https://www.vliruos.be/en/news-events https://www.vliruos.be/en/documents/129 https://www.vliruos.be/en/stories/60 https://www.vliruos.be/en/call_types/1566 https://www.vliruos.be/en/community_talks/1366 -O1 "C:\Users\JanynLumanglas\OneDrive - VLIR-UOS\Bureaublad\4. Offline Website Backup (web version ao 25 Jan 2024)" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:51:29	Warning: 	Moved Permanently for https://www.vliruos.be/robots.txt
+10:51:29	Warning: 	File has moved from https://www.vliruos.be/robots.txt to https://www.vliruos.be/en/robots.txt
+10:57:17	Error: 	"Error when decompressing" (-1) at link https://www.vliruos.be/en/news_events/20_years_of_impact sharing_minds_changing_lives/1405 (from https://www.vliruos.be/en/news-events)
+10:57:31	Error: 	"Error when decompressing" (-1) at link https://www.vliruos.be/en/news_events/[closed]_finally…_a_new_iuc_call/1092 (from https://www.vliruos.be/en/news-events)
+10:57:38	Error: 	"Error when decompressing" (-1) at link https://www.vliruos.be/en/news_events/meanwhile_in_santa_cruz_bolivia…/1072 (from https://www.vliruos.be/en/news-events)
+10:58:00	Error: 	"Not Found" (404) at link https://www.vliruos.be/en/community_talks/RGB 114 185 210.png (from https://www.vliruos.be/en/community_talks/1366)
+10:58:08	Warning: 	Moved Permanently for www.vliruos.be/robots.txt
+10:58:08	Warning: 	File has moved from www.vliruos.be/robots.txt to https://www.vliruos.be/index.php?url=robots.txt
+10:58:08	Warning: 	Moved Permanently for www.vliruos.be/en/
+10:58:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.vliruos.be/en/ and https://www.vliruos.be/en/
+10:58:08	Warning: 	File has moved from www.vliruos.be/en/ to https://www.vliruos.be/en/
+10:58:08	Error: 	"Not Found" (404) at link https://www.vliruos.be/en/project_funding/intervention_types_in_belgium/international_master_programmes_(icp)/94 (from https://www.vliruos.be/en/projects/project/22?pid=3253)
+10:58:14	Error: 	"Not Found" (404) at link https://www.vliruos.be/en/countries/new_country_lists_as_of_2022/as_of_2022_vlir_uos_country_lists_will_change/1329 (from https://www.vliruos.be/en/news_events/[closed]_call_for_icp_scholarships_is_open/1959)
+10:58:14	Error: 	"Not Found" (404) at link https://www.vliruos.be/en/open_calls/23 (from https://www.vliruos.be/en/news_events/[closed]_call_for_master_scholarships_2021_now_open/1286)
+10:58:14	Error: 	"Not Found" (404) at link https://www.vliruos.be/en/scholarships/6 (from https://www.vliruos.be/en/news_events/[closed]_new_call_for_scholarships_candidates_now_open/1129)
+10:58:15	Error: 	"Not Found" (404) at link https://www.vliruos.be/en/project_funding/intervention_types_in_partner_countries/joint_(inter)national_academic_networking_(joint)/90 (from https://www.vliruos.be/en/news_events/[closed]_vlir_uos_launches_two_new_calls_are_you_ready_to_apply/1064)
+10:58:15	Error: 	"Not Found" (404) at link https://www.vliruos.be/en/scholarships/scholarships_in_flanders/scholarships_for_trainings_(itp)/11 (from https://www.vliruos.be/en/news_events/[closed]_vlir_uos_launches_two_new_calls_are_you_ready_to_apply/1064)
+10:58:17	Error: 	"Not Found" (404) at link https://www.vliruos.be/en/countries/96) (from https://www.vliruos.be/en/scholarships/scholarships_in_flanders/scholarships_for_masters_(icp_connect)/one_year/master_of_governance_and_development/2711)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 53 seconds : 950 links scanned, 936 files written (406497195 bytes overall) [393002338 bytes received at 951579 bytes/sec], 24043563 bytes transferred using HTTP compression in 522 files, ratio 32%, 10.3 requests per connection
+(11 errors, 7 warnings, 0 messages)

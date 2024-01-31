@@ -1,0 +1,35 @@
+.resourcepage-title-toggle {
+    color:#40534F;
+    text-decoration:none;
+}
+
+.resourcepageitem-body {
+    display:none;
+}
+
+.resourcepageitem.open .resourcepageitem-body {
+    display:block;
+}
+
+.breadcrumb-item.dark, .breadcrumb-item.dark a {
+    color:#40534F
+}
+
+.breadcrumb-item, .breadcrumb-item a {
+    color:white;
+    text-decoration:none;
+}
+
+.breadcrumb-item a:hover {
+    color:rgba(255, 255, 255, 0.5);
+}
+
+
+.opencallspage .callpageitem .callpageitem-title {
+    text-transform: none;
+}
+
+a.callpageitem-title {
+    color:#40534F;
+    text-decoration:none;
+}
